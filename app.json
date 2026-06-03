@@ -1,30 +1,29 @@
 {
   "expo": {
     "name": "RN Tredar",
-    "slug": "code-magic",
-    "owner": "riderrupali170",
+    "slug": "rn-tredar",
+    "owner": "NAVA_EXPO_USERNAME_ITHE_LIHAA",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "RN_Treder",
+    "scheme": "RNTredar",
     "userInterfaceStyle": "dark",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.codemagic.trading"
+      "bundleIdentifier": "com.trading.tredar"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/icon.png",
         "backgroundColor": "#0A0E1A"
       },
-      "package": "com.codemagic.trading",
+      "package": "com.trading.tredar",
       "versionCode": 1
     },
     "plugins": [
       "expo-router",
       "expo-font",
-      "expo-web-browser",
       [
         "expo-image-picker",
         {
@@ -32,11 +31,6 @@
           "cameraPermission": false
         }
       ]
-    ],
-    "extra": {
-      "eas": {
-        "projectId": "650e483d-86b0-4c3a-97fd-c91e1eff91da"
-      }
-    }
+    ]
   }
 }
