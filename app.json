@@ -1,8 +1,8 @@
 {
   "expo": {
     "name": "RN Tredar",
-    "slug": "rn-tredar",
-    "owner": "r-treding-07",
+    "slug": "ru-rider-07",
+    "owner": "ru-rider-07",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -23,7 +23,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": ""
+        "projectId": "55402176-f0b3-4deb-8a7d-a5b9c8d6bca8"
       }
     },
     "plugins": [
