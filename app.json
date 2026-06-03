@@ -21,6 +21,11 @@
       "package": "com.trading.tredar",
       "versionCode": 1
     },
+    "extra": {
+      "eas": {
+        "projectId": ""
+      }
+    },
     "plugins": [
       "expo-router",
       "expo-font",
